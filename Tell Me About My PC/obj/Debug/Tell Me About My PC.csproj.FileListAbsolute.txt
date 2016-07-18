@@ -1,0 +1,6 @@
+c:\users\justi\documents\visual studio 2015\Projects\Tell Me About My PC\bin\Debug\Tell Me About My PC.exe.config
+C:\Users\Justi\Documents\Visual Studio 2015\Projects\Tell Me About My PC\obj\Debug\Tell Me About My PC.csprojResolveAssemblyReference.cache
+C:\Users\Justi\Documents\Visual Studio 2015\Projects\Tell Me About My PC\bin\Debug\Tell Me About My PC.exe
+C:\Users\Justi\Documents\Visual Studio 2015\Projects\Tell Me About My PC\bin\Debug\Tell Me About My PC.pdb
+C:\Users\Justi\Documents\Visual Studio 2015\Projects\Tell Me About My PC\obj\Debug\Tell Me About My PC.exe
+C:\Users\Justi\Documents\Visual Studio 2015\Projects\Tell Me About My PC\obj\Debug\Tell Me About My PC.pdb
